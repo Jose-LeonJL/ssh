@@ -1,3 +1,4 @@
+#!/bin/bash
 # Creditos
 # Jose-LeonJL
 echo Instalando Docker...
